@@ -1,0 +1,6 @@
+{
+  "name": "FraudGuard AI - Fraud Prevention & Cybersecurity Assistant",
+  "description": "Intelligent fraud prevention and cybersecurity assistant protecting users from scams, phishing, fake websites, investment fraud, UPI/banking scams, and OTP compromise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
